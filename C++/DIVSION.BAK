@@ -1,0 +1,17 @@
+#include<iostream.h>
+#include<conio.h>
+
+void main()
+{
+clrscr();
+int a,b,q,r;
+cout<<"Enter values for dividend and divisor respectively:-"<<endl;
+cin>>a>>b;
+cout<<"Your operation is "<<a<<" divided by "<<b<<endl;
+for (q=1; r>=b; q++)
+{
+r=a-b
+}
+cout<<"Quotient is "<<q<<"\t Remainder is "<<r;
+getch();
+}
